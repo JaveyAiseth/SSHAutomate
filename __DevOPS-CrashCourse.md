@@ -99,11 +99,11 @@ __NetOps-PH Setup__
 1. Get the MAC Address for the Bridge connection
 VMWare > NetOps-PH Settings > NetAdapter (2, 3, & 4) > Advance > MAC Address
 
-| NetAdapter   | MAC Address      | VM Interface | ENS     |
-| ---          | ---              | ---          | ---     |
-| NetAdapter 2 | ___.___.___.___  | ens___       |  ens192 |
-| NetAdapter 3 | ___.___.___.___  | ens___       |  ens224 |
-| NetAdapter 4 | ___.___.___.___  | ens___       |  ens256 |
+| NetAdapter   | MAC Address        | VM Interface | ENS     |
+| ---          | ---                | ---          | ---     |
+| NetAdapter 2 | 00:0C:29:6F:CA:5F  | ens___       |  ens192 |
+| NetAdapter 3 | 00:0C:29:6F:CA:69  | ens___       |  ens224 |
+| NetAdapter 4 | 00:0C:29:6F:CA:73  | ens___       |  ens256 |
 
 <br>
 
